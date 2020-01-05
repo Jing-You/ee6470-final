@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreg_ctl.a  CMakeFiles/reg_ctl.dir/bus_access_if.cpp.o CMakeFiles/reg_ctl.dir/ctrler_api.cpp.o
+/usr/bin/ranlib libreg_ctl.a

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u105/u105061255/ee6470/lab09/application/src/mem_test_03_shared/mem_test_03_shared.c
+stdio.h
+-
+assert.h
+-
+../utility/acPthread.h
+/home/u105/u105061255/ee6470/lab09/application/src/utility/acPthread.h
+
+/home/u105/u105061255/ee6470/lab09/application/src/utility/acPthread.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+

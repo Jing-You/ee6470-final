@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u105/u105061255/ee6470/lab09/application/src/rv_hal/c_crt.S
+encoding.h
+/home/u105/u105061255/ee6470/lab09/application/src/rv_hal/encoding.h
+
+/home/u105/u105061255/ee6470/lab09/application/src/rv_hal/encoding.h
+
+/home/u105/u105061255/ee6470/lab09/application/src/rv_hal/get_id.S
+

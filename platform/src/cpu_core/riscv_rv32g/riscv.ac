@@ -1,0 +1,32 @@
+/*
+*
+* @file        riscv_isa.cpp
+* @version     1.0
+*
+*
+* @date        May 2016
+* @brief       The ArchC RISC-V functional model
+*
+*
+*/
+
+
+AC_ARCH(riscv) {
+  ac_tlm2_port DM:512M;
+  ac_tlm2_intr_port irq_socket;
+
+  ac_regbank RB:32;
+
+  ac_regbank RBF:64;
+
+  ac_reg fflags;
+  ac_reg frm;
+  ac_reg fcsr;
+
+  ac_wordsize 32;
+
+  ARCH_CTOR(riscv) {
+    ac_isa("riscv_isa.ac");
+    set_endian("little");
+  };
+};

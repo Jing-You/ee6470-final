@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblock_engine.a  CMakeFiles/lock_engine.dir/lock.cpp.o CMakeFiles/lock_engine.dir/tlm_lock.cpp.o
+/usr/bin/ranlib liblock_engine.a

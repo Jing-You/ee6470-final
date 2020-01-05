@@ -1,0 +1,2 @@
+/opt/andes-rv32-toolchain/bin/riscv32-unknown-elf-ar qc libac_sysc.a  CMakeFiles/ac_sysc.dir/ac_real_sysc.c.obj CMakeFiles/ac_sysc.dir/ac_syscall_wrapper.c.obj CMakeFiles/ac_sysc.dir/alarm.c.obj CMakeFiles/ac_sysc.dir/chmod.c.obj CMakeFiles/ac_sysc.dir/gettod.c.obj CMakeFiles/ac_sysc.dir/kill.c.obj CMakeFiles/ac_sysc.dir/stat.c.obj
+/opt/andes-rv32-toolchain/bin/riscv32-unknown-elf-ranlib libac_sysc.a

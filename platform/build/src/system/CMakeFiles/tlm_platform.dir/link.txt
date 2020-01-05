@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtlm_platform.a  CMakeFiles/tlm_platform.dir/AccPlatform.cpp.o
+/usr/bin/ranlib libtlm_platform.a

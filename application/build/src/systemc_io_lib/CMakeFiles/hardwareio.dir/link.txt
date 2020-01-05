@@ -1,0 +1,2 @@
+/opt/andes-rv32-toolchain/bin/riscv32-unknown-elf-ar qc libhardwareio.a  CMakeFiles/hardwareio.dir/home/u105/u105061255/ee6470/lab09/platform/src/common/utility_class.cpp.obj CMakeFiles/hardwareio.dir/home/u105/u105061255/ee6470/lab09/platform/src/ctrler_api/bus_access_if.cpp.obj CMakeFiles/hardwareio.dir/home/u105/u105061255/ee6470/lab09/platform/src/ctrler_api/ctrler_api.cpp.obj
+/opt/andes-rv32-toolchain/bin/riscv32-unknown-elf-ranlib libhardwareio.a

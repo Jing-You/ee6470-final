@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreg_group.a  CMakeFiles/reg_group.dir/reg_set.cpp.o CMakeFiles/reg_group.dir/test.cpp.o
+/usr/bin/ranlib libreg_group.a
